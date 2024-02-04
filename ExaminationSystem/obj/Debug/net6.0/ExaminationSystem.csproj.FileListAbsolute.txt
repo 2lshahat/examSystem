@@ -1,0 +1,14 @@
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\salem\source\repos\SolutionExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
